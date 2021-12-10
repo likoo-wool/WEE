@@ -12,7 +12,7 @@ module.exports = {
     }, {
       "id": "zqydCount",
       "name": "账号个数",
-      "val": "1",
+      "val": "5",
       "type": "number",
       "desc": "指定任务最多跑几个账号，根据抓取的账号数据个数来设值"
     }, {
@@ -84,10 +84,10 @@ module.exports = {
       "val": "p=pUJybc31G2V0%3DvoWtRZZLNIRPNhwckmkQdyhJSIDwF2L02F_FSFAMBtrWj6nS_VuzRW8r6f3EaZcdZOoRldAOdLjMzHgJi-ZmjrDKbKCMsQJ0ObnuCOLh6DQDs87u19GMLL8VvSDOOPbAqj3gio4Sdscb32W1MUTylk-WaPP81eN8QGAlCnhBGvLo4PZx_dxC8goRVIlQBcfQzqx2DmkBY0JDudIAcsne1dL7n_5yo3KgS93Ur6TbtzYNeJaYpg5hbJEnU1hQUC9xK_ojaXhgir4ryVcplJHdFmFkTN33tz0oZiWP08HZ3rrpRFQ7BwqTDox0dj6nCcijgsmpiaoVrUp5A_GqNeLopAqulON7m_5nE5aDEhz3MK4CgauLhawNiYytuURcrMFcJ74q4hkR9_U3srlSAkx-18c_nnpL8DVWOGZ-IyxpzYAjReUfbMv_YMkpq5IOLhE01ZDq8PCpd-SbOoEkrfiftiuba8ktJryHZabA3GQ9cHs1cbb6YnLzZUrGZ88pCvhOQsrr3VQPOsjOUjChYcE-alIG-MF2OSuGfOk-kKTDtRVElPEOirBPcCdaZ3JqxtumsB1VFA3GlfNYiNAUlVWjr5Ksq5ugusOj_tO4pDLrnjKmKwHbW1zk5bShmjDdw1JUf-y2CvSmt2jaMbPa0iiPcOp2RHkCZbVLtB9oOozAd_91wQGsjHUt__LLV3cedI46osJERl3OdN9DZJazwf5J-lCOKxRgQnDo_12B1GXtos617sVHHLdDtjFQCDaAkeM77ByG0ua3BQSzI2-H7g9WLzUruRofEZz_m1mYJALX868JBaYFv4asQ19MWWpcGuKszFFG74g0tLP7Bfdw4BF_4MxPqQeBfD2vYnreol_q2ODg0jAe8r0IDW9c5WFJG7n8d4QflVR86qyfbpg4RqRCHGAJQ7FqxrlXRflxciIPOaFEwEZWxBh-Xc7hzVp3S3ey6RQjt8srlprFelZlRJk1N0qz-niO-WsJ0_oZz1JtydrjSTD9qExsOswR_6gGWkJN99wEKqfHaJBA7pY_QOgQqMaSyYJGbWhWxTCuxteZBtdliPs7Enj8FlfX2Ol0WLfGz1HV1x3otUiQuGfFWXeBkGuXuPG_hRX3kHwJe1PNVWSV2WdaLHKz5RTPIJoBm_zqxl-So-ywGh_udRmd4tccTQ==nc"
     },{
       "key": "zqydurl5",
-      "val": ""
+      "val": "https://kandian.wkandian.com/v3/article/lists.json?catid=1453&op=0&behot_time=0&oid=0&video_catid=0&access=4G&app_name=zqkd_app&app_version=3.5.5&carrier=CHN-UNICOM&channel=c4096&device_brand=samsung&device_id=55467832&device_model=SM-A7000&device_platform=android&device_type=android&dpi=480&inner_version=202108181034&language=zh-CN&memory=1&mi=0&mobile_type=1&net_type=2&network_type=4G&openudid=7c544a49ba475b24&os_api=23&os_version=MMB29M.A7000ZCU1CRC2&phone_sim=1&request_time=1639112391&resolution=1080x1920&rom_version=MMB29M.A7000ZCU1CRC2&s_ad=PCWwRj3eGxCw%3DYt0q9SlgLn-QOacJUSZ6TE8n6ZmSagek&s_im=2CWwRj3eGxCw%3DkANSeLM_gV37-Mit4PdQXA%3D%3D&sm_device_id=20210913191348778e096e2230a8d6f60483126c18b696013b246616d64200&storage=11.78&uid=58964914&version_code=63&zqkey=MDAwMDAwMDAwMJCMpN-w09Wtg5-Bb36eh6CPqHualIejl7B1z2Sxp5-xhXyp4LDPyGl9onqkj3ZqYJa8Y898najWsJupZLDdn7GEjHbgrrmyapqGcXY&zqkey_id=2dd1e188838da6cf8c23df90b38bdd22&sign=4045a56cecbce6e0ad3da803a245d8c8"
     },{
       "key": "zqydbody5",
-      "val": ""
+      "val": "p=HUJybc31G2V0%3DvoWtRZZLNIRPNhwckmkQdyhJSIDwF2L02F_FSFAMBtrWj6nS_VuzRW8r6f3EaZcdZOoRldAOdLj-Bleh2gvlYk2jW4nsCZlW2vzKiuBxu99G8idnNZUg3Gf6JaOsG3oqa6eeIibwh6wpBcWjrSZ9RmsLdFj4uaDdUrrRF_Ajaesjh1b_Ab24Hs4SndeRYoS46SysVjlCfOyHgoqMnZqHZV8lpvoS5QImS4EcYmsnggXVy4oo3zNZQ0Ltvt3Wbx8oVqeDQPEJLLee7z4FsjRNEdyFbz8HZ90Hzx4mbXwhKs47Un6lNG1QP3hq4-vJMKAUxFJceHiHzZdzvrtDTpHftXems1JAdZ6kzBknNJc14QdRtfapiCwbQgU0_dkMPYqeN0d9h1wuurlkhnrygVaNtmpNfYRl3Ic_44MfHl26bRdXZieqUV78TiN9C07FVkpulm_K0fuOQ5WXHexATSK6zWFvQghV6FOZaRVJ5l-fd5pwUvzgFdvD6t6wYhaHbwfHhkETbUR81XOXZKCZzwPCaCPsCaTatwcCWfN7rqXEJF72kZ5j_bZPR4Zy7Fmxm6Iv8KTOQjQ7yTJZdY3wjkos_U8KZ7pZu0z-TSy36tL2XfXE_tFZljgk5c2G2mS1OgJeVeksXu4SJRIKc3VBh-_-J_zA_MVYcfpIIfk8S1dbQjCUWNZHlKD-2t6ii8U0nqTFMtKvrcm4GE6dE6v7ZVI86AVNLwzrreBEsKY9cpSIZd3j3OvAfYPptdkCIowQvRd3EmrCrSRBxVy7IGdyShSGBJKAek0iB7knsqjYhZ5pvCiYOKRAld44WclJYQIt2w1gGHZWi3D0I6_cOnsxjcMFbqdsdWeFFzzcTzhefd5FqvY9kX8q_kwDG6H4CcIjESLeoO3DdP2zMrwz7ZimaB5RStOFCmcfjrECVRF1TO_xvqzA9G4kIInRCCPwmmiU9NipHu0g1dKXl5kvA1zRnOw7jtN0WvpaFcDKHIafkk-tkZy98rEd6Hh5_JkDGPM2iN3fQ6oE1FI-hs3iT-Db2dkRndgp1eQyThujPagTZe-3fuprJql5uRtoC1h0AioCSFsucRuOF8q_2JqovgcZuN78BFrxrHxTh12aXB7i1m5h-uSAuNnCc8i8qnBluH8Qzjou242z97wqPeQki-ILjRf27GoaTKd3jcMxTI"
     }],
     "sessions": [],
     "isLoaded": true
