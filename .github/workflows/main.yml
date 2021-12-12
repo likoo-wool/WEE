@@ -27,4 +27,4 @@ jobs:
       - name: '运行 【WEE】'
         run: |
           
-          node 11.22.3.js
+          node 11.22.4.js
